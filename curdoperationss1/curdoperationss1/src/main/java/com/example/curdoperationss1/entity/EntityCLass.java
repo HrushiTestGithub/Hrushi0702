@@ -9,6 +9,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Table;
  
 //modification1
+
 @Entity
 @Table(name="empDetails")
 public class EntityCLass {
