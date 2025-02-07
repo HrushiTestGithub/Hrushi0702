@@ -10,6 +10,8 @@ import jakarta.persistence.Table;
  
 //modification1
 
+//modification from eclipse- local directory
+
 @Entity
 @Table(name="empDetails")
 public class EntityCLass {
